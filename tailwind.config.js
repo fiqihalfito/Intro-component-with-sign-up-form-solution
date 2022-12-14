@@ -21,6 +21,13 @@ module.exports = {
             grayishBlue: "hsl(246, 25%, 77%)"
           }
         }
+      },
+      backgroundImage: {
+        "intro-mobile": "url('/images/bg-intro-mobile.png')",
+        "intro-desktop": "url('/images/bg-intro-desktop.png')",
+      },
+      boxShadow: {
+        'custom': "0px 10px 0px rgba(0, 0, 0, 0.15)"
       }
     },
   },
