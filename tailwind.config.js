@@ -27,7 +27,8 @@ module.exports = {
         "intro-desktop": "url('/images/bg-intro-desktop.png')",
       },
       boxShadow: {
-        'custom': "0px 10px 0px rgba(0, 0, 0, 0.15)"
+        'custom': "0px 10px 0px rgba(0, 0, 0, 0.15)",
+        'custom-inner': "inset 0px -5px 0px rgba(0, 0, 0, 0.15)",
       }
     },
   },
